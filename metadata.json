@@ -1,0 +1,6 @@
+{
+  "name": "Super AI",
+  "description": "ChatGPT-style AI Agent with multi-turn chat, search grounding, tools, code assistant, memory, voice, and RAG document understanding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
